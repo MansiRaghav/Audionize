@@ -4,7 +4,7 @@
 This project is a **Streamlit-based AI-Driven Video Audio Refinement Tool.** The application allows users to upload a video and processes it to provide a corrected version with grammatically accurate audio. The system extracts audio from the video, transcribes it using Google's Speech-to-Text API, corrects the transcription with Gemini, regenerates the corrected audio, and synchronizes it back into the video. The final output is a seamlessly corrected video with enhanced audio quality.
 
 ## Flowchart
-![Flowchart](your_image_name.jpg)
+![Flowchart](Flowchart.jpeg)
 
 ## Key Features
 
